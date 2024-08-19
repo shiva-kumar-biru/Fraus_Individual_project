@@ -77,10 +77,10 @@ pip install -r requirements.txt
 
 
 ### - The GUI Example 
-![gui](https://user-images.githubusercontent.com/103111111/164362111-8f
+![gui](https://github.com/shiva-kumar-biru/Fraus_Individual_project/blob/master/Images/panel_gui.png)
 
 ### - GUI output 
-![gui_output](https://user-images.githubusercontent.com/103111111/164362111-8
+![gui_output](https://github.com/shiva-kumar-biru/Fraus_Individual_project/blob/master/Images/panel_gui_output.png)
 
 ## Directory Structure
 
