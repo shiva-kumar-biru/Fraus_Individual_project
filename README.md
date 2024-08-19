@@ -73,7 +73,7 @@ pip install -r requirements.txt
   - Use the GUI to select and load test data
   - select any classifier from the dropdown list and click on **run** button to get the confusion matrix and the metrics of the particular data 
   - The GUI will display the results in the form of confusion matrix, accuracy, precision, recall
-  - If you want to get the accuracies of all the classifiers as a barchart to compare the accuracies of the classifer , select each classifer and **run** and the click on the **accuracies** button to get the chart 
+  - If you want to get the accuracies of all the classifiers as a barchart to compare the accuracies of the classifer , select each classifer and **run** and the click on the ** Compare accuracies** button to get the chart 
 
 
 ### - The GUI Example 
